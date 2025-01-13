@@ -42,7 +42,7 @@
                 <div class="widget-body clearfix">
                     <div class="pull-left">
                         <h3 class="widget-title text-warning"><span class="counter" data-plugin="counterUp"><?= $pinjam_30 ?></span></h3>
-                        <small class="text-color">Total Pinjam 30 Hari Terakhir</small>
+                        <small class="text-color">Total Izin 30 Hari Terakhir</small>
                     </div>
                     <span class="pull-right big-icon watermark"><i class="fa fa-file-text-o"></i></span>
                 </div>
@@ -53,7 +53,7 @@
                 <div class="widget-body clearfix">
                     <div class="pull-left">
                         <h3 class="widget-title text-success"><span class="counter" data-plugin="counterUp"><?= $pinjam_365 ?></span></h3>
-                        <small class="text-color">Total Pinjam 1 Tahun Terakhir</small>
+                        <small class="text-color">Total Izin 1 Tahun Terakhir</small>
                     </div>
                     <span class="pull-right big-icon watermark"><i class="fa fa-file-text-o"></i></span>
                 </div>
@@ -64,7 +64,7 @@
                 <div class="widget-body clearfix">
                     <div class="pull-left">
                         <h3 class="widget-title text-danger"><span class="counter" data-plugin="counterUp"><?= $pinjam_365 ?></span></h3>
-                        <small class="text-color">Total Pinjam 1 Sepanjang Masa</small>
+                        <small class="text-color">Total Izin 1 Sepanjang Masa</small>
                     </div>
                     <span class="pull-right big-icon watermark"><i class="fa fa-file-text-o"></i></span>
                 </div>

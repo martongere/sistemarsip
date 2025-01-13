@@ -45,7 +45,7 @@
                 <div class="widget-body clearfix">
                     <div class="pull-left">
                         <h3 class="widget-title text-success"><span class="counter" data-plugin="counterUp"><?= $dipinjam ?></span></h3>
-                        <small class="text-color">Total Transaksi pinjam dari unit lain</small>
+                        <small class="text-color">Total Transaksi dokumen dari unit lain</small>
                     </div>
                     <span class="pull-right big-icon watermark"><i class="fa fa-file-text-o"></i></span>
                 </div>
@@ -56,7 +56,7 @@
                 <div class="widget-body clearfix">
                     <div class="pull-left">
                         <h3 class="widget-title text-danger"><span class="counter" data-plugin="counterUp"><?= $pinjam ?></span></h3>
-                        <small class="text-color">Total Transaksi Pinjam ke unit lain</small>
+                        <small class="text-color">Total Transaksi dokumen ke unit lain</small>
                     </div>
                     <span class="pull-right big-icon watermark"><i class="fa fa-file-text-o"></i></span>
                 </div>

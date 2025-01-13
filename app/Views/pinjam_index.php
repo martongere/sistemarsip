@@ -66,7 +66,7 @@
                                                         <button type="submit" class="btn btn-primary btn-xs">Download</button>
                                                     </form>
                                                 <?php elseif ($row->pinjam_approved == 1) : ?>
-                                                    Lewat batas pinjam.
+                                                    Lewat batas prizinan.
                                                 <?php elseif ($row->pinjam_approved == 0) : ?>
                                                     Ditolak
                                                 <?php elseif ($row->pinjam_approved == 'checked') : ?>

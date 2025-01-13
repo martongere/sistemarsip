@@ -58,7 +58,7 @@
         </div><!-- #login-form -->
 
         <div class="simple-page-footer">
-            <p><a href="#">Lupa Password ? Hubungi admin</a></p>
+            <p><a href="#"></a></p>
             <!-- <p>
                 <small>Don't have an account ?</small>
                 <a href="signup.html">CREATE AN ACCOUNT</a>
